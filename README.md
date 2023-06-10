@@ -1,1 +1,1 @@
-# AI-Projrct
+# Mahjong-Tiles_AI-Game
